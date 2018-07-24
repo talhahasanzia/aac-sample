@@ -1,1 +1,1 @@
-# aac-sample
+# Android Architecture Components - Sample
